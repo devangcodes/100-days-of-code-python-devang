@@ -13,6 +13,8 @@ Welcome to my 100 Days of Code challenge repository! I'm following Angela Yu's P
 Below is a summary of what I learned or built each day.
 
 - **Day 1** - Course started, necessary software downloaded, print() and input() functions, variables, how to name name variables accurately, Project: Band Name Generator
+- **Day 2** - Data Types, Type Error, Type Conversion, Type Checking, Number Manipulation and F Strings, Project: Top Calculator
+- **Day 3**
 
 ## How to Use This Repository
 - Each folder (`Day1/`, `Day2/`, etc.) contains the project for that day.
@@ -23,7 +25,7 @@ This project is licensed under the MIT License. See the Liscense file for detail
 
 I'm always ready to connect at the email address mentioned below if you have any questions. Feel free to explore, clone, or fork this repo!
 
-Keep building,
+Keep building!
 
 #### Devang 
 devangnpillai@gmail.com
